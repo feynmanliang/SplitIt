@@ -1,0 +1,4 @@
+SplitIt
+Author: Feynman Liang <feynman.liang@gmail.com>
+---
+SplitIt is a PHP application which matches users based on provided availability in order to purchase services in groups, lowering costs by increasing transaction size.
